@@ -8,7 +8,7 @@ import Contact from './pages/Contact';
 import './App.css';
 
 const App = () => (
-  <Router>
+  <Router basename="/engraved-wood-blocks">
     <div className="App">
       <Header />
       <main>
