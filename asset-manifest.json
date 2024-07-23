@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.f187257a.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.ef9780e5.js",
-    "static/js/453.e5a2093d.chunk.js": "/%7Brepo-name%7D/static/js/453.e5a2093d.chunk.js",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "main.f187257a.css.map": "/%7Brepo-name%7D/static/css/main.f187257a.css.map",
-    "main.ef9780e5.js.map": "/%7Brepo-name%7D/static/js/main.ef9780e5.js.map",
-    "453.e5a2093d.chunk.js.map": "/%7Brepo-name%7D/static/js/453.e5a2093d.chunk.js.map"
+    "main.css": "/engraved-wood-blocks/static/css/main.f187257a.css",
+    "main.js": "/engraved-wood-blocks/static/js/main.9c7e50a9.js",
+    "static/js/453.e5a2093d.chunk.js": "/engraved-wood-blocks/static/js/453.e5a2093d.chunk.js",
+    "index.html": "/engraved-wood-blocks/index.html",
+    "main.f187257a.css.map": "/engraved-wood-blocks/static/css/main.f187257a.css.map",
+    "main.9c7e50a9.js.map": "/engraved-wood-blocks/static/js/main.9c7e50a9.js.map",
+    "453.e5a2093d.chunk.js.map": "/engraved-wood-blocks/static/js/453.e5a2093d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f187257a.css",
-    "static/js/main.ef9780e5.js"
+    "static/js/main.9c7e50a9.js"
   ]
 }
